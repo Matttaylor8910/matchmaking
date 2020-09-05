@@ -104,7 +104,7 @@ function generateTeam(a, b) {
  * @param {*} count 
  */
 function generatePlayers(count) {
-  return [...Array(count).keys()]
+  return [...Array(count).keys()];
 }
 
 
