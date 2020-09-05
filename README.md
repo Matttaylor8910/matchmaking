@@ -4,3 +4,7 @@ Simple matchmaking algorithm for generating the maximum number of rounds for a g
 
 ### Example Output:
 ![Example Output](https://i.imgur.com/9dXyu1j.png)
+
+
+### Visually why this works:
+![Visually why this works](https://i.imgur.com/U4J20UR.png)
